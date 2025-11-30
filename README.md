@@ -1,2 +1,2 @@
 # Proyecto-Web-Ejemplo
-Proyecto de prueba de cocnicimientos
+Proyecto de prueba de conocimientos
